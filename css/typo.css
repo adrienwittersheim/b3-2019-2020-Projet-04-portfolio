@@ -1,16 +1,20 @@
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500&display=swap');
-</style>
+@import url("https://use.typekit.net/aau7wra.css");
 
 
 
 body {
-  font-family: 'helvetica';
+  font-family: , sans-serif;
 }
 
 h1 {
   font-size: 3em;
   margin-bottom: 1em;
+  font-family: aktiv-grotesk-extended, sans-serif;
+
+}
+
+#categories {
+  font-weight: 300;
 }
 
 h2 {

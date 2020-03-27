@@ -1,5 +1,9 @@
+@import url("https://use.typekit.net/aau7wra.css");
+
+
 body {
   background: #ffffff;
+  font-family: aktiv-grotesk-condensed, sans-serif;
 }
 
 section {
@@ -10,6 +14,7 @@ section {
 figure {
   margin-bottom : 1em;
 }
+
 
 
 .project-feature-container {
@@ -35,6 +40,7 @@ figure {
 .photo-feature {
   flex-basis: 640px;
   flex-shrink: 1;
+
 }
 
 
