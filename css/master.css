@@ -1,5 +1,5 @@
 body {
-  background: #efefef;
+  background: #ffffff;
 }
 
 section {
@@ -19,7 +19,7 @@ figure {
 }
 
 .project-feature {
-  border: 2px solid #000;
+  border: 1px solid #000;
   margin: 1em;
   padding: 1em;
   flex-basis: 320px;
@@ -57,7 +57,7 @@ figure {
 }
 
 #main-menu {
-  background: rgba(255, 50, 27, 1);
+  background: #ffffff;
   position: absolute;
   top : 0;
   left : -300px;
@@ -69,13 +69,13 @@ figure {
 
 #main-menu:target {
     left : 0;
-    background: rgba(255, 250, 127, 1);
+    background: #ffffff;
 }
 
 #main-menu ul a {
   display: block;
   color : rgba(0, 0, 0, 1);
-  background: rgba(255, 247, 98, 0.5);
+  background: #ffffff;
   padding: 1em;
   margin-bottom: 1px;
 }
