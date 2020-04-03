@@ -176,3 +176,9 @@ figure img {
   object-fit: cover;
 
 }
+
+.narrow {
+  width: 100px;
+  height: 150px;
+  margin-top: 10px;
+}
