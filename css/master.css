@@ -180,10 +180,7 @@ figure img {
   object-fit: cover;
 }
 
-.maison{
-  padding-top: 15em;
-  padding-left: 20em;
-}
+
 
 
 .pool{
@@ -201,7 +198,7 @@ display: block;
 padding-top: 15em;
 margin-left: auto;
 margin-right: auto;
+height: 140vh;
 width: 100vh;
-justify-content: center;
 object-fit: contain;
 }
